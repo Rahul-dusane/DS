@@ -1,6 +1,6 @@
 # Data Structures Practical Assignment 
 
-## Assignments
+## Assignments 1
 
 1. **Array Pointer Matching**  
    - Write a program to check if two different pointers point to the same location in an array.
