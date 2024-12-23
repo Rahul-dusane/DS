@@ -1,18 +1,4 @@
-# Data Structures Practical Assignment - B.Sc. I.T. 3rd Semester
-
-**Date:** 23/07/2024  
-**Institution:** Veer Narmad South Gujarat University (VNSGU)
-
-## Table of Contents
-- [Overview](#overview)
-- [Assignments](#assignments)
-- [Usage](#usage)
-- [Requirements](#requirements)
-- [License](#license)
-
-## Overview
-
-This repository contains solutions for various practical assignments in Data Structures for the 3rd semester of the B.Sc. I.T. program. The assignments cover fundamental operations using pointers, arrays, structures, and stacks.
+# Data Structures Practical Assignment 
 
 ## Assignments
 
