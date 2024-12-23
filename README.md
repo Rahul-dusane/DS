@@ -56,8 +56,3 @@
 16. **Merge Character Stacks**  
     - Enter elements into two separate character stacks and merge them one-by-one into a third stack.
 
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
