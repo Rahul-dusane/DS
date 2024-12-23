@@ -55,4 +55,52 @@
 
 16. **Merge Character Stacks**  
     - Enter elements into two separate character stacks and merge them one-by-one into a third stack.
+   
+
+
+
+
+## Assignment 3
+
+### 1. Singly Linked List
+- **Operations**: Insertion, Deletion, Searching, Sorting, and Display.
+
+### 2. Circular Singly Linked List
+- **Operations**: Insertion, Deletion, Searching, and Display.
+
+### 3. Queue Using Linked List
+- Implementation of Queue operations using a linked list.
+
+### 4. Stack Using Linked List
+- Implementation of Stack operations using a linked list.
+
+### 5. Doubly Linked List
+- **Operations**: Insertion, Deletion, Display (Forward and Reverse traversal).
+
+### 6. Linked List for Student Data
+- **Structure**: 
+  - Roll Number
+  - Name
+  - Semester
+  - Marks (Subject 1, Subject 2, Subject 3)
+  - Total
+- **Operations**:
+  - Insertion
+  - Display
+  - Deletion by Roll Number
+  - Display student node with the highest marks.
+
+### 7. Merging of Two Linked Lists
+- Merge two linked lists where each node contains:
+  - A character value.
+  - An integer value.
+- Split the merged list into two separate linked lists (integer and character).
+- Sum all integer values in the singly linked list.
+
+### 8. Polynomial Representation Using Singly Linked List
+- Create and manipulate a singly linked list to represent polynomials.
+
+### 9. Sum of All Node Values in a Singly Linked List
+- Create a singly linked list and compute the sum of all its node values.
+
 
